@@ -1,0 +1,10 @@
+body {
+  background-color: #262626;
+}
+
+h1[class="titleheading"] {
+  color: #ff4747ff;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+}
