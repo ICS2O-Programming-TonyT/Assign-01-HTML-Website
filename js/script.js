@@ -14,4 +14,4 @@ navLinks.forEach(function(navLink) {
 // MDL components
 // Component 1: Button
 const button = document.createElement('button');
-button.textContent = 'Click
+button.textContent = 'Click';
