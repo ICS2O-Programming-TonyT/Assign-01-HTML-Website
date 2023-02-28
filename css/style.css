@@ -33,7 +33,7 @@ header {
 
 /* Heading color using HSL */
 h1 {
-  color: hsl(0, 0%, 100%);
+  color: hsl(0deg, 0%, 100%);
 }
 
 /* Heading color using hex */
@@ -65,7 +65,7 @@ nav a {
   padding: 12px;
   text-decoration: none;
   color: #fff;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-weight: bold;
   margin-top: 0;
   margin-left: 0;
